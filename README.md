@@ -1,4 +1,4 @@
-# Object Detection Web Project
+# Object Detection Project
 
 This is a Full Stack web project for real-time object detection using JavaScript and HTML. It includes:
 
